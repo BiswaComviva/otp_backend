@@ -23,6 +23,6 @@
     "node-datetime": "^2.1.2",
     "nodemon": "^1.19.1",
     "otplib": "^11.0.1",
-    "sequelize": "^5.10.2"
+    "sequelize": "^5.15.1"
   }
 }
